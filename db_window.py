@@ -78,3 +78,4 @@ def mostrar_gestor(conn):
     tk.Button(frame_consulta, text="Ejecutar consulta", command=ejecutar_consulta).pack(pady=5)
 
     ventana.mainloop()
+aporte de aleida al proyecto
