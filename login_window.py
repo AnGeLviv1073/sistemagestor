@@ -4,6 +4,7 @@ from PIL import Image, ImageTk
 from db_connector import conectar_bd
 from db_window import mostrar_gestor
 
+    # Centrar login
 def crear_login():
     root = tk.Tk()
     root.title("Gestor de Base de Datos")
